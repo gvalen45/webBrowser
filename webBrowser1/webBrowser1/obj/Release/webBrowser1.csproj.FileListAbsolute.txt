@@ -1,0 +1,10 @@
+C:\Users\jgvalen2\Desktop\webBrowser1\webBrowser1\bin\Release\webBrowser1.exe.config
+C:\Users\jgvalen2\Desktop\webBrowser1\webBrowser1\bin\Release\webBrowser1.exe
+C:\Users\jgvalen2\Desktop\webBrowser1\webBrowser1\bin\Release\webBrowser1.pdb
+C:\Users\jgvalen2\Desktop\webBrowser1\webBrowser1\obj\Release\webBrowser1.csprojAssemblyReference.cache
+C:\Users\jgvalen2\Desktop\webBrowser1\webBrowser1\obj\Release\webBrowser1.Form1.resources
+C:\Users\jgvalen2\Desktop\webBrowser1\webBrowser1\obj\Release\webBrowser1.Properties.Resources.resources
+C:\Users\jgvalen2\Desktop\webBrowser1\webBrowser1\obj\Release\webBrowser1.csproj.GenerateResource.cache
+C:\Users\jgvalen2\Desktop\webBrowser1\webBrowser1\obj\Release\webBrowser1.csproj.CoreCompileInputs.cache
+C:\Users\jgvalen2\Desktop\webBrowser1\webBrowser1\obj\Release\webBrowser1.exe
+C:\Users\jgvalen2\Desktop\webBrowser1\webBrowser1\obj\Release\webBrowser1.pdb
